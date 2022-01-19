@@ -1,0 +1,37 @@
+* {
+  padding:0; margin: 0;
+}
+
+#first-bar {
+  background-color: #77dde7;
+}
+
+#second-bar {
+  background-color: darkgray;
+}
+
+#iphone13 {
+  float left;
+  background-color: #FFFAF0;
+  padding-left: 5%;
+  padding-top: 5%;
+  position: relative;
+  align: center;
+}
+
+.I13 {
+  font-family: 'fantasy';
+  font-size: 4em;
+  font-weight: 500;
+  text-align: center;
+}
+
+#iphone13o {
+  float left;
+  padding: 0;
+  background-color: #FFFAF0;
+  font-family: inherit;
+  font-size: 0.9em;
+  font-weight: 300;
+  text-align: left;
+}

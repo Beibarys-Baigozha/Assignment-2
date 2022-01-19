@@ -1,0 +1,92 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: 'IBM Plex Serif', serif;
+}
+
+#first-bar {
+  background-color: #77dde7;
+}
+
+#navbar-brand {
+  display: grid;
+  grid-template-columns: 0.2fr auto 1fr;
+  align-items: center;
+  height: 70px;
+  width: 90%;
+  max-width: 1720px;
+  margin: 0 auto;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: white;
+}
+
+#second-bar {
+  background-color: darkgray;
+}
+
+.icon-mar {
+  padding: 5px;
+}
+
+.icon {
+  color: DarkBlue;
+}
+
+.location {
+  font-size: 3rem;
+}
+
+.container-fluid {
+  padding: 0 0;
+}
+
+.space-for-btn {
+  margin: 10px;
+}
+
+.details-part {
+  background-color: #FFFAF0;
+}
+
+.catalog {
+  margin: 30px;
+  padding: 15px;
+}
+
+.image-cont img {
+  width: 300px;
+  height: 300px;
+  margin-bottom: 15px;
+}
+
+.text-cont {
+  text-align: center;
+  font-size: 2rem;
+}
+
+.text-cont a {
+  color: black;
+}
+
+.icon-star {
+  color: yellow;
+}
+
+#footer {
+  align: right;
+  background-color: black;
+  color: white;
+}
+
+#shopag {
+  position: fixed;
+  top: 710px;
+  left: 1360px;
+}
+
+
+.btn btn-outline-warning {
+  padding-left: 500px;
+}
